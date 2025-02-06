@@ -5,5 +5,5 @@ fun isValidEmail(email: String): Boolean {
 
 fun main() {
     val email = "example@example.com"
-    println("Is the email valid? ${isValidEmail(email)}")
+    println("Is the email valid and proper? ${isValidEmail(email)}")
 }
